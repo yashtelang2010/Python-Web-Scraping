@@ -1,2 +1,2 @@
-# Python-Web-Scraping
-•Developed a versatile Python web scraper capable of extracting images from any given URL and performing spell checking on the text content. Upon providing a URL input, the scraper parsed the HTML content, extracted all images, and conducted a spell check on the text. •
+# PYTHON-WEB-SCRAPE
+IN THIS PROJECT WE HAVE TO PROVIDE A LINK OF ANY WEBSITE AND IT WILL GIVE US THE LIST OF SPELLING MISTAKES IN THE WEBSITE AND ALSO IT WILL PROVIDE A LIST OF IMAGES IN THE WEBSITE
